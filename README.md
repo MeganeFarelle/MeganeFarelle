@@ -1,5 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi, I'm Megane Farelle" src="./assets/gh-readme-header.png" /></a></p>
-
+<h1 align="center">Hi, I'm Megane Farelle</h1>
 <h3 align="center">Building the future, one idea at a time 🚀</h3>
 
 <p align="center">
